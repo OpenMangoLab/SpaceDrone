@@ -18,16 +18,8 @@ SpaceDrone is an open-source research project initiated by the OpenMango team. T
 - Documentation and tutorials for setup, deployment, and data analysis.
 
 ## Getting Started
-To replicate the SpaceDrone project in your location, follow these steps:
 
-1. **Setup Hardware**: Assemble the custom-built drone according to the provided specifications and guidelines.
-2. **Install Software**: Download and configure the necessary software components for flight control, data collection, and transmission.
-3. **Calibration**: Calibrate the sensors and flight systems to ensure accurate data collection and flight performance.
-4. **Testing**: Conduct thorough testing of the drone system in controlled environments before actual deployment.
-5. **Deployment**: Deploy the drone into the stratosphere in the desired location.
-6. **Data Retrieval**: Retrieve collected data either in real-time during flight or after retrieval of the drone.
-7. **Analysis**: Analyze the collected data using appropriate tools and techniques for research purposes.
-8. **Contribution**: Share your findings, improvements, and modifications with the community to enhance the project.
+Coming Soon...
 
 ## Contributing
 We welcome contributions from individuals and organizations interested in advancing the SpaceDrone project. You can contribute by:
